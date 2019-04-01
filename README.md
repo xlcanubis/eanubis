@@ -1,6 +1,7 @@
 # eanubis
 
-sourcecode
+sourcecode below
+p.s. make sure you use a gmail account when asked
 
 ```
 #Persistent
